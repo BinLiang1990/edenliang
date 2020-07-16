@@ -19,13 +19,15 @@ Here are some ideas to get you started:
 
 - 🔭 I work at SSW https://www.ssw.com.au/people/eden-liang
 
-- 🎓 I graduated from Hangzhou DIANZI university - http://www.hdu.edu.cn
+- 🎓 I studied Software Engineering at Hangzhou DIANZI university
 
 - 📫 How to reach me: EdenLiang@ssw.com.au
 
 - 👯 We are running UserGroup https://fireusergroup.com
 
 - 👪 I am dad to 1 cute boy
+
+- 🏠 I have lived in Australia
 
 - 🌱 I’m currently learning English
 
