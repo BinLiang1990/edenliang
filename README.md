@@ -14,3 +14,15 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- 💬 Ask me about React, MySQL, .NET Core and how to build your applications.
+
+- 🔭 I work at SSW https://www.ssw.com.au/people/eden-liang
+
+- 👯 We are running UserGroup https://fireusergroup.com/
+
+- 👪 I am dad to 1 cute boy.
+
+
+Cheers
+Eden Liang
