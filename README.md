@@ -15,13 +15,13 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 💬 Ask me about React, VUE, MySQL, .NET Core, Ali Cloud, Azure and how to build your applications
+- 💬 Ask me about React, VUE, MySQL, .NET Core, Ali Cloud and Azure
 
-- 🎓 I studied Software Engineering at Hangzhou DIANZI university
+- 🎓 I graduted from Hangzhou DIANZI university with a bachelor degree in Software Engineering
 
 - 👪 I am dad to 1 cute boy
 
-- 🌱 I’m currently learning English
+- 🌱 I’m always trying to inprove my English
 
 
 Cheers  
