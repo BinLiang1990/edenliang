@@ -17,20 +17,12 @@ Here are some ideas to get you started:
 
 - 💬 Ask me about React, VUE, MySQL, .NET Core, Ali Cloud, Azure and how to build your applications
 
-- 🔭 I work at SSW https://www.ssw.com.au/people/eden-liang
-
 - 🎓 I studied Software Engineering at Hangzhou DIANZI university
 
-- 📫 How to reach me: EdenLiang@ssw.com.au
-
-- 👯 We are running UserGroup https://fireusergroup.com
-
 - 👪 I am dad to 1 cute boy
-
-- 🏠 I have lived in Australia
 
 - 🌱 I’m currently learning English
 
 
 Cheers  
-Eden Liang
+Bin Liang
